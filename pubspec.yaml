@@ -1,4 +1,4 @@
-name: flutter_keychain_fix
+name: flutter_keychain
 description: Flutter secure storage via Keychain and Keystore. Fixed.
 version: 3.0.0
 homepage: https://github.com/jeroentrappers/flutter_keychain
