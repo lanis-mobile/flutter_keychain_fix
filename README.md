@@ -1,4 +1,10 @@
-# flutter_keychain
+# flutter_keychain_fix
+
+> [!WARNING]
+> THIS PACKAGE IS DISCONTINUED! PLEASE USE ANOTHER PACKAGE!
+
+> [!NOTE]
+> Removed support vor v1 Android embedding to support Flutter v3.29 and above.
 
 A Flutter plugin for supporting secure storage of strings via Keychain and Keystore
 
