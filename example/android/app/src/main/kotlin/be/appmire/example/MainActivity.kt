@@ -1,4 +1,4 @@
-package be.appmire.flutterkeychainexample
+package be.appmire.example
 
 import io.flutter.embedding.android.FlutterActivity
 
